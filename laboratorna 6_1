@@ -2,8 +2,6 @@
 #include <cmath>
 using namespace std;
 
-//Ñòâîðèòè øàáëîííó ôóíêö³þ äëÿ çíàõîäæåííÿ ñåðåäíüîãî ãåîìåòðè÷íîãî åëåìåíò³â ìàñèâó.
-
 template <typename T1, typename T2>
 T1 geometric_mean(T1 array[], const T2 size)
 {
